@@ -1,0 +1,14 @@
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\bin\Debug\net8.0\Scissors rock and paper.exe
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\bin\Debug\net8.0\Scissors rock and paper.deps.json
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\bin\Debug\net8.0\Scissors rock and paper.runtimeconfig.json
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\bin\Debug\net8.0\Scissors rock and paper.dll
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\bin\Debug\net8.0\Scissors rock and paper.pdb
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\Scissors rock and paper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\Scissors rock and paper.AssemblyInfoInputs.cache
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\Scissors rock and paper.AssemblyInfo.cs
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\Scissors rock and paper.csproj.CoreCompileInputs.cache
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\Scissors rock and paper.dll
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\refint\Scissors rock and paper.dll
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\Scissors rock and paper.pdb
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\Scissors rock and paper.genruntimeconfig.cache
+C:\Users\nikanatenaze\Desktop\STEP\Back End\Scissors rock and paper\Scissors rock and paper\obj\Debug\net8.0\ref\Scissors rock and paper.dll

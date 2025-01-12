@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Scissors rock and paper/1.0.0": {
+        "runtime": {
+          "Scissors rock and paper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scissors rock and paper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
