@@ -1,7 +1,7 @@
 # Scissors rock & paper game
 Information about project:
 <pre>
-  This is a simple project game with database(sql)
+  This is a simple project game with database(sql entity framework)
   Im demonstrateing my sql skills, this project
   was build at holydays soo..
   this code can be much better
