@@ -31,7 +31,7 @@ namespace Scissors_rock_and_paper.Design
             IntPtr hWnd = GetConsoleWindow();
             int windowLong = GetWindowLong(hWnd, GWL_EXSTYLE);
             SetWindowLong(hWnd, GWL_EXSTYLE, windowLong | WS_EX_LAYERED);
-            byte opacity = 220;
+            byte opacity = 230;
             SetLayeredWindowAttributes(hWnd, 0, opacity, LWA_ALPHA);
         }
     }
