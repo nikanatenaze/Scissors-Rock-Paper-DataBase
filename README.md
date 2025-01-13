@@ -11,7 +11,6 @@ Information about project:
 </pre>
 
 Using instructions:
-
 <pre>
   After dawnloading you need to do:
   - Open project with any Code program
@@ -19,5 +18,8 @@ Using instructions:
   - Install and dawnload sql entity framework extensions (If don't includes already)
 </pre>
 
-![image](https://github.com/user-attachments/assets/9e0ed7fa-a8ed-4766-b24d-b2f5eac9fe5e)
+Image:
+
+![image](https://github.com/user-attachments/assets/794b22a1-6bfa-4247-9cb3-639e1948f232)
+
 
